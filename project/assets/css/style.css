@@ -1,0 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+a{
+	color: black;
+	padding: 10px;
+	font-size: 20px;
+}
+a:hover{
+	color: blueviolet;
+}
+.p1{
+	background-color: #e9eaee;
+}
+.h1{
+	padding-right: 10px;
+
+}
+.h2{
+	background-color:#e9eaee;
+}
+.b1{
+	background-color: #e9eaee;
+}
+.b2{
+	background-color: grey;
+}
+.c1{
+	color: red;
+}
